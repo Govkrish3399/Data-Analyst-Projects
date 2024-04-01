@@ -1,3 +1,5 @@
+**These are some of the projects which showcases my skills in data collecting, data cleaning, data preproccessing and visualization**
+
 Project 1: [Credit risk assessment analysis](https://github.com/Govkrish3399/CREDIT-RISK-ASSESSMENT-ANALYSIS)
 
 Project 2: [EDA ANALYSIS ON BANK MARKETING](https://github.com/Govkrish3399/EDA-Analysis-on-Bank-Marketing)
