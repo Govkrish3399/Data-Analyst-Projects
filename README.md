@@ -1,4 +1,4 @@
-**These are some of the projects which showcases my skills in data collecting, data cleaning, data preproccessing and visualization**
+**These are some of the projects which showcases my skills in data loading, data cleaning, data preproccessing and visualization**
 
 Project 1: [Credit risk assessment analysis](https://github.com/Govkrish3399/CREDIT-RISK-ASSESSMENT-ANALYSIS)
 
